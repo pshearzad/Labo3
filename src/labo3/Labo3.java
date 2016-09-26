@@ -18,7 +18,7 @@ public class Labo3 {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("test2");
-        System.out.println("conflit")
+        System.out.println("conflit");
     }
     
 }
